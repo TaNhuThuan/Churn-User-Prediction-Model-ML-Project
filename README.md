@@ -1,1 +1,1 @@
-# Churn-User-Prediction-Model-ML-Project
+# Churn User Prediction Model - Summary Project
